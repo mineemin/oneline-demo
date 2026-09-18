@@ -1,3 +1,3 @@
 export default function MinePage() {
-  return <h1>여기는 내가 만든 첫 주소입니다</h1>;
+  return <h1>내가 만든 첫 페이지입니다 — 1회차 실습</h1>;
 }
